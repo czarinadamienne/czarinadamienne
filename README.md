@@ -18,11 +18,9 @@
   </a>
 </p>
 
-<br>
-
 ## 💡 A Few Things About Me
 
-<table>
+<table border="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -45,8 +43,6 @@
 </td>
 </tr>
 </table>
-
-<br>
 
 ## 🛠️ Tools & Technologies
 
