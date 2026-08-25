@@ -12,7 +12,7 @@
   <a href="mailto:czarinadamienneang@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
-  <a href="YOUR_RESUME_URL">
+  <a href="https://drive.google.com/file/d/1nboaZKhwe2jToW3tjTACu5Jh93z6supB/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/Resume-555555?logo=file-text&logoColor=fff">
   </a>
 </p>
