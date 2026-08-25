@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Czarina 🤓☝️</h1>
 
 <p align="left">
-  <sub>
     I am a graduating Computer Systems Engineering student, with a minor in Game Design, at De La Salle University. I aspire to become a Data Analyst and am also interested in Machine Learning, AI, and Data Visualization.
-  </sub>
 </p>
 
 <p align="center">
@@ -32,7 +30,7 @@
 
 ## 🛠️ Tools & Technologies
 
-### `PERSONAL FAVS:`
+### <ins><sup>PERSONAL FAVS: </sup></ins>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -40,10 +38,7 @@
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-<details>
-<summary><b>OTHER TECHNOLOGIES I'VE USED:</b></summary>
-
-<br>
+### <ins><sup>OTHER TECHNOLOGIES/TOOLS I'VE USED: </sup></ins>
 
 `Languages`
 
@@ -93,5 +88,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-</details>
