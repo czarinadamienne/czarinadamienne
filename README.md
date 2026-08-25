@@ -18,32 +18,17 @@
   </a>
 </p>
 
-## 💡 A Few Things About Me
+<img align="right" src="./assets/silly-photo.png" width="200">
 
-<table border="0">
-<tr>
-<td width="65%" valign="top">
+## 💡Short About Me!
 
-👩‍💻 Currently learning more about **Microsoft Excel**
-
-📚 Improving my skills in **Python and SQL**
-
-💻 I have experience in **Web and Game Development**
-
-🏗️ Currently building my **portfolio website** and working on **Data Analytics projects**
-
+👩‍💻 Currently learning more about **Microsoft Excel**  
+📚 Improving my skills in **Python and SQL**  
+💻 I have experience in **Web and Game Development**  
+🏗️ Currently building my **portfolio website** and working on **Data Analytics projects**  
 🎨 I love reading comics and building plastic model kits!
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="./assets/silly-photo.png" width="220">
-
-</td>
-</tr>
-</table>
-
+<br clear="right">
 ## 🛠️ Tools & Technologies
 
 ### `PERSONAL FAVS:`
