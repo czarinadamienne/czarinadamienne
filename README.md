@@ -83,4 +83,4 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<sub><i>GitHub Profile README inspired by Spiderpig86 and stefani-gifta </i></sub>
+<sub><i>GitHub Profile README inspired by Spiderpig86 and stefani-gifta✨</i></sub>
