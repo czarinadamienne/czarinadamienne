@@ -1,10 +1,8 @@
 <h1 align="center">Hello, I'm Czarina 🤓☝️</h1>
 
-<p align="center">
+<p align="left">
   <sub>
-    I am a graduating Computer Systems Engineering student from De La Salle University.
-    I aspire to become a Data Analyst and am also interested in Machine Learning,
-    AI, and Data Visualization.
+    I am a graduating Computer Systems Engineering student, with a minor in Game Design, at De La Salle University. I aspire to become a Data Analyst and am also interested in Machine Learning, AI, and Data Visualization.
   </sub>
 </p>
 
@@ -20,7 +18,7 @@
   </a>
 </p>
 
----
+<br>
 
 ## 💡 A Few Things About Me
 
@@ -34,7 +32,7 @@
 
 💻 I have experience in **Web and Game Development**
 
-🏗️ Currently building my **website portfolio** and working on **Data Analytics projects**
+🏗️ Currently building my **portfolio website** and working on **Data Analytics projects**
 
 🎨 I love reading comics and building plastic model kits!
 
@@ -48,7 +46,7 @@
 </tr>
 </table>
 
----
+<br>
 
 ## 🛠️ Tools & Technologies
 
